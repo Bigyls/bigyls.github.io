@@ -12,7 +12,11 @@ export const links = [
       link: "https://app.hackthebox.com/profile/245040"
     },
     {
-      name: "Root-Me",
+      name: "RootMe",
       link: "https://www.root-me.org/Bigyls"
+    },
+    {
+      name: "PentesterLab",
+      link: "https://pentesterlab.com/profile/Bigyls"
     }
   ];

@@ -80,43 +80,13 @@ a {
   aspect-ratio: 1;
 }
 
-.link:nth-child(1) {
+.link:nth-child(n) {
   background: linear-gradient(
       90deg,
       rgba(241, 241, 241, 0.1) 30%,
       rgba(113, 113, 113, 0.3) 100%
     ),
     #242425;
-  color: white;
-}
-
-.link:nth-child(2) {
-  background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #181620;
-  color: white;
-}
-
-.link:nth-child(3) {
-  background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #0f0f11;
-  color: white;
-}
-
-.link:nth-child(4) {
-  background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #000000;
   color: white;
 }
 
