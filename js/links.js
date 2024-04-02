@@ -18,5 +18,9 @@ export const links = [
     {
       name: "PentesterLab",
       link: "https://pentesterlab.com/profile/Bigyls"
+    },
+    {
+      name: "Hackviser",
+      link: "https://app.hackviser.com/profile/Bigyls"
     }
   ];
