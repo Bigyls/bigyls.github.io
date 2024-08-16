@@ -22,5 +22,9 @@ export const links = [
     {
       name: "Hackviser",
       link: "https://app.hackviser.com/profile/Bigyls"
+    },
+    {
+      name: "PwnTillDawn",
+      link: "https://online.pwntilldawn.com/Achievements/7543"
     }
   ];
