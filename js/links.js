@@ -26,5 +26,9 @@ export const links = [
     {
       name: "PwnTillDawn",
       link: "https://online.pwntilldawn.com/Achievements/7543"
+    },
+    {
+      name: "TowerCTF",
+      link: "https://tower-ctf.fr/app/profile/bigyls"
     }
   ];
