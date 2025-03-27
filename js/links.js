@@ -29,6 +29,6 @@ export const links = [
     },
     {
       name: "TowerCTF",
-      link: "https://tower-ctf.fr/app/profile/bigyls"
+      link: "https://app.tower-ctf.fr/profile/bigyls"
     }
   ];
