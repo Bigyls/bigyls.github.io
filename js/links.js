@@ -30,5 +30,9 @@ export const links = [
     {
       name: "TowerCTF",
       link: "https://app.tower-ctf.fr/profile/bigyls"
+    },
+    {
+      name: "Codewars",
+      link: "https://www.codewars.com/users/Bigyls"
     }
   ];
